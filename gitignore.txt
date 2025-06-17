@@ -1,0 +1,36 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dataset and large files
+traffic_wala_dataset/
+*.jpg
+*.txt
+*.zip
+*.tar.gz
+
+# Model checkpoints and logs
+*.pth
+*.pt
+logs/
+runs/
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
