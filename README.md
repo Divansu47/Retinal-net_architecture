@@ -278,4 +278,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - Inspired by the RetinaNet paper: *Focal Loss for Dense Object Detection* (Lin et al., 2017).
+- Special Thanks to Pranay Gadh and Aarushi Anand .
 - Thanks to the PyTorch and albumentations communities for their excellent libraries.
