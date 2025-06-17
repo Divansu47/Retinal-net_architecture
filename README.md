@@ -260,10 +260,10 @@ After training for 20 epochs, the model achieved:
 These results indicate good convergence for the traffic detection task.
 
 ![image](https://github.com/user-attachments/assets/c24cd17f-494b-4162-bca9-4e107ca52210)
-SAVED LABELS FOR INFERENCE ON THE SAMPLE TEST IMAGE:-
+-SAVED LABELS FOR INFERENCE ON THE SAMPLE TEST IMAGE:-
 ![image](https://github.com/user-attachments/assets/34ba2cc9-ab2a-4a1b-8a1b-4646a140728e)
 
-
+-complete python script-notebook -  [RetinaNet Project](https://www.kaggle.com/code/divansumishra/retinal-last/output?scriptVersionId=245924540)
 ## Future Improvements
 - Add a validation loop to monitor performance (e.g., mAP).
 - Optimize anchor boxes using K-Means clustering.
